@@ -11,11 +11,14 @@ https://localhost:7154/api/projetos
 - POST - cadastrar projeto
 https://localhost:7154/api/projetos/
 
->{
+```JSON
+{
 "nomeDoProjeto": "Projeto D - Senai FIT",
 "area": "Saúde",
 "status": true
 }
+```
+
 
 - GET - listar projeto por ID
 https://localhost:7154/api/projetos/2
@@ -24,11 +27,13 @@ https://localhost:7154/api/projetos/2
 - PUT - atualizar projeto por ID
 https://localhost:7154/api/projetos/4
 
->{
+```JSON
+{
 "nomeDoProjeto": "Projeto D - Senai Games",
 "area": "Entretenimento",
 "status": false
 }
+```
 
 - DELETE - deletar projeto por ID
 https://localhost:7154/api/projetos/4
