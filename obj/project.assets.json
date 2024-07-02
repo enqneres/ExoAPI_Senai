@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enoqu\\Downloads\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\enoqu\\Documents\\Projetos\\ExoAPI_Senai\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\enoqu\\Downloads\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\enoqu\\Documents\\Projetos\\ExoAPI_Senai\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\enoqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enoqu\\Downloads\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\enoqu\\Documents\\Projetos\\ExoAPI_Senai\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\enoqu\\AppData\\Roaming\\NuGet\\NuGet.Config"

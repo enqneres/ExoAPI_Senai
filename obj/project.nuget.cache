@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xybmJIOLcRUo8KdVJ4FccRXVbzNpbLZ5jugk96Q7ERtQEXon14FuxKGDz9baE40l8krcORW+gobwd7C7/ffMFA==",
+  "dgSpecHash": "wjplPWhKTrI/y2YPxoT/gkMZWHDfoPvebQCfry38L29o4UND4h8yJ5pY4JG/YYRsWYDsYVfib2jwVqWtSAIeDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enoqu\\Downloads\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\enoqu\\Documents\\Projetos\\ExoAPI_Senai\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enoqu\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\enoqu\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
